@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class ColorConsts {
 
   // Logo 的颜色，一般都是品牌色
@@ -42,9 +44,3 @@ class ColorConsts {
   // 棋子文字颜色
   static const PieceTextColor = Color.fromARGB(0xCC, 0xFF, 0xFF, 0xFF);
 }
-
-
-
-      代码段来源：GitChat 
-        —————— GitChat是一款基于微信平台的知识分享产品。通过这款产品我们希望改变IT知识的学习方式。
-    
